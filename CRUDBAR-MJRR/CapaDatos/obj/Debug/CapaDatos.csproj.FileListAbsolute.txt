@@ -1,0 +1,9 @@
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete

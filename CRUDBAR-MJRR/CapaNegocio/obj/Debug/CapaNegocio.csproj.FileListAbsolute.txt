@@ -1,0 +1,11 @@
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR-MJRR\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
